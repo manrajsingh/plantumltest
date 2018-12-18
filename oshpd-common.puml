@@ -1,20 +1,16 @@
-[plantuml, format="png", id="user_oshpd"]
-----
+@startuml (id="user_oshpd")
 actor user_oshpd [
   <b>OSHPD User
 ]
-----
+@enduml
 
-[plantuml, format="png", id="user_public"]
-----
+@startuml (id="user_public")
 actor user_public [
   <b>Public User
 ]
-----
 
-[plantuml, format="png", id="user_anonymous"]
-----
+@startuml (id="user_anonymous")
 actor user_anonymous [
   <b>Anonymous User
 ]
-----
+@enduml
