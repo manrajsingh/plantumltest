@@ -8,6 +8,7 @@ actor user_oshpd [
 actor user_public [
   <b>Public User
 ]
+@enduml
 
 @startuml (id="user_anonymous")
 actor user_anonymous [
