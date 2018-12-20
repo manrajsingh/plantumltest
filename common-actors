@@ -1,0 +1,13 @@
+@startuml (id="user_oshpd")
+actor user_oshpd [
+  <b>OSHPD User
+]
+
+actor user_public [
+  <b>Public User
+]
+
+actor user_anon [
+  <b>Anonymous User
+]
+@enduml
