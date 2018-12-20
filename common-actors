@@ -1,4 +1,4 @@
-@startuml (id="user_oshpd")
+@startuml
 actor user_oshpd [
   <b>OSHPD User
 ]
